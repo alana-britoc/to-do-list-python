@@ -10,7 +10,7 @@ Estou começando com Python e fiz esse projeto para treinar. Achei legal porque 
 ## Como rodar
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/to-do-list-python.git
+git clone https://github.com/alana-britoc/to-do-list-python.git
 cd to-do-list-python
 
 
