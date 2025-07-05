@@ -13,7 +13,6 @@ Clone o repositório:
 git clone https://github.com/alana-britoc/to-do-list-python.git
 cd to-do-list-python
 
-
 ## Funcionalidades
 
 - Adicionar nova tarefa
@@ -25,5 +24,5 @@ cd to-do-list-python
 ## Possíveis melhorias
 
 - Adicionar interface gráfica com Tkinter
-- Criar filtros (pendentes/concluídas)
+- Criar filtros (pendentes/concluídas) ✔️
 - Fazer versão web com Flask ou FastAPI
