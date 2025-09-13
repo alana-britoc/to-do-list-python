@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+tasks.json
+
+venv/
+.venv/
+env/
+.env/
+
+.vscode/
+.idea/
